@@ -1,3 +1,4 @@
+correo electrónico 
 # frozen_string_literal: true
 
 require 'sinatra/activerecord/rake'
